@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @codeankit-kkr
 - 👀 I’m interested in coding, singing and reading.
-- 🌱 I’m currently learning data structures and algorithms using C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
